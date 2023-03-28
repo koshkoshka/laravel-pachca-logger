@@ -1,0 +1,27 @@
+{
+    "name": "docentbf/laravel-pachca-logger",
+    "description": "Pachca logger for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "pachca", "laravel", "monolog", "logger"
+    ],
+    "authors": [
+        {
+            "name": "DocentBF",
+            "email": "docentbf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3",
+        "monolog/monolog": "^2.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DocentBF\\LaravelPachcaLogger\\": "src/"
+        }
+    }
+}
