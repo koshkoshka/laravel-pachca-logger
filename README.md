@@ -3,7 +3,7 @@ Laravel Monolog handler for https://pachca.com
 
 ## Requirements
 
-- php 7.3 and above
+- php 8.0 and above
 - Laravel 8
 
 ## Install
