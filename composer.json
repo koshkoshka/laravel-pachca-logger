@@ -1,5 +1,5 @@
 {
-    "name": "docentbf/laravel-pachca-logger",
+    "name": "koshkoshka/laravel-pachca-logger",
     "description": "Pachca logger for Laravel",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.3",
+        "php": "^8.0",
         "monolog/monolog": "^2.0",
         "ext-curl": "*",
         "ext-json": "*"
